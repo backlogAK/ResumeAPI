@@ -7,13 +7,13 @@ module.exports = async function (context, req) {
           "label": "Software Engineer",
           "image": "https://dashing-cheesecake-3d9b5d.netlify.app/",
           "email": "ayushkumargoley@gmail.com",
-          "phone": "+91-8076932198",
+          "phone": "+91-8493281958",
           "url": "www.linkedin.com/in/ayushgoley",
           "summary": "A Software Engineer learning and growing..",
           "location": {
-            "city": "Greater Noida",
+            "city": "Delhi",
             "countryCode": "India",
-            "region": "Gautum Budh Nagar"
+            "region": "Delhi"
           },
           "profiles": [{
             "network": "Linkdin",
